@@ -1,6 +1,6 @@
  <h1>Welcome!</h1>
- 
-[![Banner Image](https://github.com/dstroot/dstroot/raw/master/assets/background.svg)](https://dstroot.com)
+
+[![Banner Image](https://github.com/dstroot/dstroot/raw/master/assets/background.svg)](https://danstroot.com)
 
 [Dan Stroot User Guide](https://dstroot.github.io/readme/)
 
