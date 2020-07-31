@@ -1,6 +1,7 @@
 [![Banner Image](https://github.com/dstroot/dstroot/raw/master/assets/background.svg)](https://danstroot.com)
 
-<h3>[Dan Stroot User Guide](https://dstroot.github.io/readme/)</h3>
+<!-- <h3>[Dan Stroot User Guide](https://dstroot.github.io/readme/)</h3> -->
+<h4><a href="https://dstroot.github.io/readme/">Dan Stroot User Guide</a></h4>
 
 <!--
 **dstroot/dstroot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
