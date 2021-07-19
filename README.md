@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 [website]: https://www.danstroot.com
 [twitter]: https://twitter.com/danstroot
 <!-- [youtube]: https://youtube.com/danstroot -->
-<!-- [instagram]: https://instagram.com/codeSTACKr -->
+[instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
